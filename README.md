@@ -21,7 +21,6 @@ samples, guidance on mobile development, and a full API reference.
 
 D:\my_projects_mobile\flutter\Flutter_Ui\flutter_application_ui\assets/image1
 ## Project images : 
-![Alt text](relative%20path/assets/image1.png?raw=true "Title")
-![Alt text](relative%20assets/image1.png?raw=true "Title")
-<!-- ![Alt text](relative%20path/to/img.jpg?raw=true "Title") -->
+![Screenshot](image1.png)
+![Screenshot](image2.png)
 <!-- ![alt text](http://url/to/img.png) -->
